@@ -1,0 +1,6 @@
+{
+  "name": "Khám Phá Sinh Học KHTN Cùng Cô Duyên",
+  "description": "Ứng dụng học tập Sinh học KHTN 6, 7, 8, 9 chuẩn GDPT 2018 với mô hình 3D, sơ đồ tư duy, trắc nghiệm tương tác và hệ thống đồng bộ tiến độ học tập đa thiết bị.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
