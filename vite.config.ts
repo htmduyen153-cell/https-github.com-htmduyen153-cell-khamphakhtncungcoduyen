@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/https-github.com-htmduyen153-cell-khamphakhtncungduyen/'
+    base: '/https-github.com-htmduyen153-cell-khamphakhtncungduyen/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
